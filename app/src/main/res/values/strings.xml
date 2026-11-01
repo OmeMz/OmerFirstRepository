@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">omermazor</string>
-    <string name="header">Hello World</string>
+    <string name="header">Dexter Mazor</string>
+    <string name="explanation">I chose my dog because he is always happy no matter what happens</string>
 </resources>
