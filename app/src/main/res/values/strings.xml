@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">omermazor</string>
-    <string name="header">Dexter Mazor</string>
-    <string name="explanation">I chose my dog because he is always happy no matter what happens</string>
+    <string name="header">המדינה</string>
+    <string name="explanation">בשבילי להיות ישראלי זה האחריות שלנו לשמור על המדינה, הנופים בה ולהרוג את מי שמתנגד</string>
+    <string name="mainButton">לחץ בי</string>
 </resources>
