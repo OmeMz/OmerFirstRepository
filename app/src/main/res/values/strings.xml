@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">omermazor</string>
+    <string name="app_name">Omer Mazor</string>
     <string name="header">המדינה</string>
     <string name="explanation">בשבילי להיות ישראלי זה האחריות שלנו לשמור על המדינה, על הניקיון שלה והנופים שלה</string>
     <string name="mainButton">לחץ בי</string>
+    <string name="mainButtonClickText">לחץ בי</string>
 </resources>
